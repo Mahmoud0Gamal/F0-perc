@@ -1,9 +1,8 @@
 # F0% Analyzer
-qPCR analysis method
+A qPCR analysis method
 
 ## Authors
-Mahmoud Gamal
-Prof. Dr. Marwa Ibrahim
+Mahmoud Gamal and Prof. Dr. Marwa Ibrahim
 
 ## Description
 f0% Analyzer is a free Macro-enabled Microsoft Excel-based program. It is developed to help researchers in analyzing quantitative PCR runs that depend on intercalating dyes with high accuracy.
